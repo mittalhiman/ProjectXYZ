@@ -10,12 +10,14 @@ import sys
 
 print(sys.version)
 print("My first python code")
+print("changes done for testing")
 
 #calculating sum of two numbers
 x=2
 y=4
+z=4
 
-print("Sum of two numbers is {}".format(x+y))
+print("Sum of two numbers is {}".format(x+y+z))
 
 
 #creating pandas DataFrame
